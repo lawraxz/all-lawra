@@ -1,0 +1,13 @@
+{
+  "status": "active",
+  "licenses": {
+    "smspanel.icu": {
+      "active": true,
+      "hash": "Hshsuwysgscsueus"
+    },
+    "test.com": {
+      "active": false,
+      "hash": "$2y$10$xyz..."
+    }
+  }
+}
